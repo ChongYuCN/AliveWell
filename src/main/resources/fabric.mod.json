@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "aliveandwell",
+  "version": "${version}",
+  "name": "Alive Well",
+  "description": "This mod is for the modpack named Dangerous World!",
+  "authors": [
+    "ChongYu"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "aliveandwell.aliveandwell.client.AliveAndWellClient"
+    ],
+    "main": [
+      "aliveandwell.aliveandwell.AliveAndWellMain"
+    ]
+  },
+  "mixins": [
+    "aliveandwell.mixins.json"
+  ],
+  "custom": {
+    "cardinal-components": ["aliveandwell:homes"]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.13",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  },
+  "accessWidener": "aliveandwell.accessWidener"
+}
