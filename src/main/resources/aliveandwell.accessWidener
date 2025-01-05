@@ -1,0 +1,20 @@
+accessWidener v1 named
+accessible method net/minecraft/entity/FallingBlockEntity <init> (Lnet/minecraft/world/World;DDDLnet/minecraft/block/BlockState;)V
+mutable field net/minecraft/world/SpawnHelper MIN_SPAWN_DISTANCE I
+accessible field net/minecraft/entity/ai/goal/MeleeAttackGoal path Lnet/minecraft/entity/ai/pathing/Path;
+accessible field net/minecraft/entity/ai/goal/MeleeAttackGoal cooldown I
+accessible field net/minecraft/screen/CraftingScreenHandler input Lnet/minecraft/inventory/CraftingInventory;
+accessible field net/minecraft/screen/CraftingScreenHandler result Lnet/minecraft/inventory/CraftingResultInventory;
+
+accessible method net/minecraft/block/entity/AbstractFurnaceBlockEntity writeNbt (Lnet/minecraft/nbt/NbtCompound;)V
+accessible method net/minecraft/screen/CraftingScreenHandler updateResult (Lnet/minecraft/screen/ScreenHandler;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/inventory/CraftingInventory;Lnet/minecraft/inventory/CraftingResultInventory;)V
+accessible method net/minecraft/block/entity/AbstractFurnaceBlockEntity getCookTime (Lnet/minecraft/world/World;Lnet/minecraft/block/entity/AbstractFurnaceBlockEntity;)I
+accessible method net/minecraft/block/entity/AbstractFurnaceBlockEntity getFuelTime (Lnet/minecraft/item/ItemStack;)I
+
+accessible method net/minecraft/entity/ExperienceOrbEntity wasMergedIntoExistingOrb (Lnet/minecraft/server/world/ServerWorld;Lnet/minecraft/util/math/Vec3d;I)Z
+accessible method net/minecraft/entity/ExperienceOrbEntity isMergeable (Lnet/minecraft/entity/ExperienceOrbEntity;II)Z
+
+#accessible method net/minecraft/world/gen/structure/Structure isBiomeValid (Lnet/minecraft/world/gen/structure/Structure/StructurePosition;Lnet/minecraft/world/gen/chunk/ChunkGenerator;Lnet/minecraft/world/gen/noise/NoiseConfig;Ljava/util/function/Predicate;)B
+
+#accessible method net/minecraft/world/SpawnHelper$Info run (Lnet/minecraft/entity/mob/MobEntity;Lnet/minecraft/world/chunk/Chunk;)V
+
