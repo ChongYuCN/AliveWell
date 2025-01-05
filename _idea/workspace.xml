@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec284e06-c65d-4858-a5ae-45f21ad3a464" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatadogProjectSettings">
+    <option name="environmentAUserChoice" value="true" />
+    <option name="isEnvironmentAUserChoice" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AliveAndWell-fabric-1-19-2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AliveAndWell-fabric-1-19-2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AliveAndWell-fabric-1-19-2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/b21bd3ad751fc2dc4c96ac0e4af050e29070cd04/sponge-mixin-0.12.5+mixin.0.8.5-sources.jar!/org/spongepowered/asm/mixin/Mixin.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/block/AbstractGlassBlock.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/block/Blocks.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/block/GlassBlock.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/entity/mob/AbstractSkeletonEntity.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/entity/mob/WitherSkeletonEntity.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/item/ItemStack.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/item/Items.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/item/SwordItem.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/server/command/GameModeCommand.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/server/network/ServerPlayerEntity.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/world/SaveProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/world/World.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/world/WorldProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/world/level/LevelProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2-sources.jar!/net/minecraft/world/level/ServerWorldProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2/minecraft-merged-project-root-1.19.2-net.fabricmc.yarn.1_19_2.1.19.2+build.28-v2.jar!/data/minecraft/recipes/netherite_helmet_smithing.json" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aliveandwell/aliveandwell/mixins/aliveandwell/screen/EnchantmentHelperMixin.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2RgU57Ek7YAuA7vi7wSR0326Bg0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.AliveAndWell-fabric-1-19-2 [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AliveAndWell-fabric-1.19.2 [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AliveAndWell-fabric-1.19.2 [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.构建 AliveAndWell-fabric-1-19-2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.datadog.showProjectSetup&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/3-Games/Modding/FabricProject/代码参考/Soulslike-Weaponry-1.20-1.20.1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;全局库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;应用程序.Minecraft Client.executor&quot;: &quot;Debug&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-19-2\src\main\resources\data\aliveandwell\recipes" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-19-2\src\main\resources\assets\aliveandwell\textures\item" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-19-2\src\main\resources\assets\aliveandwell\models\item" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-19-2\src\main\resources\assets\aliveandwell\textures\block" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-19-2\src\main\resources\data\aliveandwell\loot_tables\blocks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1.19.2\run\saves\新的世界\playerdata" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1.19.2\run\saves" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1.19.2\src\main\resources\data\aliveandwell\recipes" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1.19.2\src\main\resources\assets\minecraft\textures\gui\title\background" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1.19.2\src\main\resources\assets\minecraft\textures\gui\title\" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="aliveandwell.aliveandwell.miningsblock" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aliveandwell.aliveandwell.registry.events" />
+      <recent name="aliveandwell.aliveandwell.mixins.aliveandwell.enity" />
+      <recent name="aliveandwell.aliveandwell.mixins.aliveandwell.armor" />
+      <recent name="aliveandwell.aliveandwell.block" />
+      <recent name="aliveandwell.aliveandwell.mixins.aliveandwell" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AliveAndWell-fabric-1.19.2 [build]">
+    <configuration name="AliveAndWell-fabric-1-19-2 [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AliveAndWell-fabric-1.19.2 [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AliveAndWell-fabric-1.19.2 [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AliveAndWell-fabric-1.19.2 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AliveAndWell-fabric-1.19.2 [genSourcesWithCfr]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="genSourcesWithCfr" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.AliveAndWell-fabric-1-19-2 [jar]" />
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [assemble]" />
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [buildDependents]" />
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [build]" />
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [genSourcesWithCfr]" />
+      <item itemvalue="应用程序.Minecraft Client" />
+      <item itemvalue="应用程序.Minecraft Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [build]" />
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [genSourcesWithCfr]" />
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [buildDependents]" />
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.19.2 [assemble]" />
+        <item itemvalue="Gradle.AliveAndWell-fabric-1-19-2 [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ec284e06-c65d-4858-a5ae-45f21ad3a464" name="更改" comment="" />
+      <created>1687671033416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687671033416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AliveAndWell_fabric_1_19_2$Minecraft_Client.ic" NAME="Minecraft Client 覆盖结果" MODIFIED="1690529470561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
