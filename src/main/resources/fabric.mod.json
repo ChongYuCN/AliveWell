@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "aliveandwell",
+	"version": "${version}",
+	"name": "AliveAndWell",
+	"description": "This mod is for the modpack named Dangerous World!",
+	"authors": [
+		"ChongYu!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/aliveandwell/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"com.chongyu.aliveandwell.client.AliveAndWellClient"
+		],
+		"main": [
+			"com.chongyu.aliveandwell.AliveAndWellMain"
+		]
+	},
+	"mixins": [
+		"aliveandwell.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	},
+  "accessWidener": "aliveandwell.accessWidener"
+}
