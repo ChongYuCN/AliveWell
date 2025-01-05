@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "conditions": {
+        "to": "aliveandwell:underworld_dim"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "aliveandwell:textures/block/underworld_portal.png",
+    "description": {
+      "translate": "advancements.aliveandwell.underworld_dim.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "aliveandwell:underworld_portal"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.aliveandwell.underworld_dim.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ]
+}
