@@ -1,5 +1,6 @@
 # DangerousWorld
 一个Minecraft的Fabric版本的困难生存冒险mod，是整合包《危险世界求生》的核心mod。https://modrinth.com/modpack/dangerousworld
+
 1.玩家初始饱食度为3颗心。
 
 2.无法空手撸树，挖沙砾获取燧石，右键石头获得燧石碎片。用燧石镐挖铜矿。
