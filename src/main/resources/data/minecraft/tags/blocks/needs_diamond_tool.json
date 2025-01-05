@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "aliveandwell:ore_adamantium",
+    "aliveandwell:ore_adamantium_deepslate",
+    "aliveandwell:adamantium_block",
+    "aliveandwell:mithril_block"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "minecraft:apple"
+    },
+    "Y": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    "Y#Y",
+    "#X#",
+    "Y#Y"
+  ],
+  "result": {
+    "item": "minecraft:golden_apple"
+  }
+}
