@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:item_en_gemstone"
+    },
+    "Y":
+        {"item":"doom:argent_energy" }
+
+  },
+  "result": {
+    "item": "aliveandwell:ex_pickaxe"
+  }
+}

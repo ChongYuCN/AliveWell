@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "aliveandwell:ancient_core"
+  },
+  "base": {
+    "item": "aliveandwell:adamantium_sword"
+  },
+  "result": {
+    "item": "aliveandwell:ancient_sword"
+  }
+}

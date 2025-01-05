@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "D"
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:ingot_mithril"
+    },
+    "D": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:mithril_sword"
+  }
+}

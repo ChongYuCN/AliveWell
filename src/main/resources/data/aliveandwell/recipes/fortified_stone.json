@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "ad_astra:mars_iron_ore"
+    },
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    "A#A",
+    "#X#",
+    "B#B"
+  ],
+  "result": {
+    "item": "aliveandwell:fortified_stone"
+  }
+}

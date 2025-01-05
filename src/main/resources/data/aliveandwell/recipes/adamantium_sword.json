@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "D"
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:ingot_adamantium"
+    },
+    "D": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:adamantium_sword"
+  }
+}
